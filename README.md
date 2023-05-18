@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=d1dee&theme=tokyonight&hide_border=true&border_radius=6.1)](https://git.io/streak-stats)
+
 <!--
 **d1dee/d1dee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
